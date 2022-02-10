@@ -19,19 +19,19 @@
 		5CB6D7F7279CA31100FFE183 /* jumpTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CB6D7F6279CA31100FFE183 /* jumpTests.swift */; };
 		5CB6D801279CA31100FFE183 /* jumpUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CB6D800279CA31100FFE183 /* jumpUITests.swift */; };
 		5CB6D803279CA31100FFE183 /* jumpUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CB6D802279CA31100FFE183 /* jumpUITestsLaunchTests.swift */; };
-		5CB6D81E279CA44B00FFE183 /* rimouski sb.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5CB6D816279CA44B00FFE183 /* rimouski sb.otf */; };
-		5CB6D81F279CA44B00FFE183 /* wheaton capitals.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5CB6D817279CA44B00FFE183 /* wheaton capitals.otf */; };
-		5CB6D820279CA44B00FFE183 /* jump.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5CB6D819279CA44B00FFE183 /* jump.wav */; };
-		5CB6D821279CA44B00FFE183 /* superScore.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5CB6D81A279CA44B00FFE183 /* superScore.wav */; };
-		5CB6D822279CA44B00FFE183 /* collision.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5CB6D81B279CA44B00FFE183 /* collision.wav */; };
-		5CB6D823279CA44B00FFE183 /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5CB6D81C279CA44B00FFE183 /* btn.wav */; };
-		5CB6D824279CA44B00FFE183 /* score.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5CB6D81D279CA44B00FFE183 /* score.wav */; };
 		5CB6D828279CACFE00FFE183 /* PlayerNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CB6D827279CACFE00FFE183 /* PlayerNode.swift */; };
 		5CB6D82B279D75C500FFE183 /* UIColor+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CB6D82A279D75C500FFE183 /* UIColor+Ext.swift */; };
 		5CB6D82D279D790C00FFE183 /* WallNodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CB6D82C279D790C00FFE183 /* WallNodes.swift */; };
 		5CB6D830279D7A1500FFE183 /* Types.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CB6D82F279D7A1500FFE183 /* Types.swift */; };
 		5CB6D832279D7B1E00FFE183 /* SideNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CB6D831279D7B1E00FFE183 /* SideNode.swift */; };
 		5CB6D834279DCF0E00FFE183 /* HUDNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CB6D833279DCF0E00FFE183 /* HUDNode.swift */; };
+		5CD3B781279E9B9B00197885 /* rimouski sb.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5CD3B77F279E9B9B00197885 /* rimouski sb.otf */; };
+		5CD3B782279E9B9B00197885 /* wheaton capitals.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5CD3B780279E9B9B00197885 /* wheaton capitals.otf */; };
+		5CD3B789279E9BAF00197885 /* jump.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5CD3B784279E9BAF00197885 /* jump.wav */; };
+		5CD3B78A279E9BAF00197885 /* superScore.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5CD3B785279E9BAF00197885 /* superScore.wav */; };
+		5CD3B78B279E9BAF00197885 /* collision.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5CD3B786279E9BAF00197885 /* collision.wav */; };
+		5CD3B78C279E9BAF00197885 /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5CD3B787279E9BAF00197885 /* btn.wav */; };
+		5CD3B78D279E9BAF00197885 /* score.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5CD3B788279E9BAF00197885 /* score.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,13 +67,6 @@
 		5CB6D7FC279CA31100FFE183 /* jumpUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = jumpUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CB6D800279CA31100FFE183 /* jumpUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = jumpUITests.swift; sourceTree = "<group>"; };
 		5CB6D802279CA31100FFE183 /* jumpUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = jumpUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		5CB6D816279CA44B00FFE183 /* rimouski sb.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "rimouski sb.otf"; sourceTree = "<group>"; };
-		5CB6D817279CA44B00FFE183 /* wheaton capitals.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "wheaton capitals.otf"; sourceTree = "<group>"; };
-		5CB6D819279CA44B00FFE183 /* jump.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = jump.wav; sourceTree = "<group>"; };
-		5CB6D81A279CA44B00FFE183 /* superScore.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = superScore.wav; sourceTree = "<group>"; };
-		5CB6D81B279CA44B00FFE183 /* collision.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = collision.wav; sourceTree = "<group>"; };
-		5CB6D81C279CA44B00FFE183 /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
-		5CB6D81D279CA44B00FFE183 /* score.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = score.wav; sourceTree = "<group>"; };
 		5CB6D825279CA4D800FFE183 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5CB6D827279CACFE00FFE183 /* PlayerNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerNode.swift; sourceTree = "<group>"; };
 		5CB6D82A279D75C500FFE183 /* UIColor+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Ext.swift"; sourceTree = "<group>"; };
@@ -81,6 +74,13 @@
 		5CB6D82F279D7A1500FFE183 /* Types.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Types.swift; sourceTree = "<group>"; };
 		5CB6D831279D7B1E00FFE183 /* SideNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideNode.swift; sourceTree = "<group>"; };
 		5CB6D833279DCF0E00FFE183 /* HUDNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HUDNode.swift; sourceTree = "<group>"; };
+		5CD3B77F279E9B9B00197885 /* rimouski sb.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "rimouski sb.otf"; sourceTree = "<group>"; };
+		5CD3B780279E9B9B00197885 /* wheaton capitals.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "wheaton capitals.otf"; sourceTree = "<group>"; };
+		5CD3B784279E9BAF00197885 /* jump.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = jump.wav; sourceTree = "<group>"; };
+		5CD3B785279E9BAF00197885 /* superScore.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = superScore.wav; sourceTree = "<group>"; };
+		5CD3B786279E9BAF00197885 /* collision.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = collision.wav; sourceTree = "<group>"; };
+		5CD3B787279E9BAF00197885 /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
+		5CD3B788279E9BAF00197885 /* score.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = score.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -198,35 +198,12 @@
 		5CB6D814279CA36400FFE183 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				5CD3B783279E9BAF00197885 /* Sounds */,
+				5CD3B77E279E9B9B00197885 /* Fonts */,
 				5CB6D825279CA4D800FFE183 /* Info.plist */,
-				5CB6D815279CA44B00FFE183 /* Fonts */,
-				5CB6D818279CA44B00FFE183 /* Sounds */,
 				5CB6D7E9279CA31000FFE183 /* Assets.xcassets */,
 			);
 			path = Resources;
-			sourceTree = "<group>";
-		};
-		5CB6D815279CA44B00FFE183 /* Fonts */ = {
-			isa = PBXGroup;
-			children = (
-				5CB6D816279CA44B00FFE183 /* rimouski sb.otf */,
-				5CB6D817279CA44B00FFE183 /* wheaton capitals.otf */,
-			);
-			name = Fonts;
-			path = ../../../../Downloads/jump/Fonts;
-			sourceTree = "<group>";
-		};
-		5CB6D818279CA44B00FFE183 /* Sounds */ = {
-			isa = PBXGroup;
-			children = (
-				5CB6D819279CA44B00FFE183 /* jump.wav */,
-				5CB6D81A279CA44B00FFE183 /* superScore.wav */,
-				5CB6D81B279CA44B00FFE183 /* collision.wav */,
-				5CB6D81C279CA44B00FFE183 /* btn.wav */,
-				5CB6D81D279CA44B00FFE183 /* score.wav */,
-			);
-			name = Sounds;
-			path = ../../../../Downloads/jump/Sounds;
 			sourceTree = "<group>";
 		};
 		5CB6D826279CACC000FFE183 /* Nodes */ = {
@@ -255,6 +232,29 @@
 				5CB25B5A279E2CA200F72E06 /* ColorModel.swift */,
 			);
 			path = MyUtils;
+			sourceTree = "<group>";
+		};
+		5CD3B77E279E9B9B00197885 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				5CD3B77F279E9B9B00197885 /* rimouski sb.otf */,
+				5CD3B780279E9B9B00197885 /* wheaton capitals.otf */,
+			);
+			name = Fonts;
+			path = ../../../../jump/Fonts;
+			sourceTree = "<group>";
+		};
+		5CD3B783279E9BAF00197885 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				5CD3B784279E9BAF00197885 /* jump.wav */,
+				5CD3B785279E9BAF00197885 /* superScore.wav */,
+				5CD3B786279E9BAF00197885 /* collision.wav */,
+				5CD3B787279E9BAF00197885 /* btn.wav */,
+				5CD3B788279E9BAF00197885 /* score.wav */,
+			);
+			name = Sounds;
+			path = ../../../../jump/Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -361,18 +361,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5CB6D820279CA44B00FFE183 /* jump.wav in Resources */,
-				5CB6D824279CA44B00FFE183 /* score.wav in Resources */,
-				5CB6D81E279CA44B00FFE183 /* rimouski sb.otf in Resources */,
+				5CD3B789279E9BAF00197885 /* jump.wav in Resources */,
+				5CD3B78D279E9BAF00197885 /* score.wav in Resources */,
+				5CD3B781279E9B9B00197885 /* rimouski sb.otf in Resources */,
 				5CB6D7E8279CA30D00FFE183 /* Main.storyboard in Resources */,
-				5CB6D821279CA44B00FFE183 /* superScore.wav in Resources */,
+				5CD3B78A279E9BAF00197885 /* superScore.wav in Resources */,
 				5CB6D7DF279CA30D00FFE183 /* GameScene.sks in Resources */,
-				5CB6D823279CA44B00FFE183 /* btn.wav in Resources */,
+				5CD3B78C279E9BAF00197885 /* btn.wav in Resources */,
 				5CB6D7EA279CA31000FFE183 /* Assets.xcassets in Resources */,
 				5CB6D7ED279CA31000FFE183 /* LaunchScreen.storyboard in Resources */,
-				5CB6D81F279CA44B00FFE183 /* wheaton capitals.otf in Resources */,
+				5CD3B782279E9B9B00197885 /* wheaton capitals.otf in Resources */,
 				5CB6D7E1279CA30D00FFE183 /* Actions.sks in Resources */,
-				5CB6D822279CA44B00FFE183 /* collision.wav in Resources */,
+				5CD3B78B279E9BAF00197885 /* collision.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
